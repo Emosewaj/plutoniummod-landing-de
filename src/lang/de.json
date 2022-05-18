@@ -12,7 +12,7 @@
         "defaultMessage": "Spieler"
     },
     "/tG5fS": {
-        "defaultMessage": "Sieh auf welchen Servern deine Freunde speilen - und schließe dich ihnen an!"
+        "defaultMessage": "Sieh auf welchen Servern deine Freunde spielen - und schließe dich ihnen an!"
     },
     "49vo8t": {
         "defaultMessage": "Schnellsuche"
@@ -27,7 +27,7 @@
         "defaultMessage": "Herunterladen"
     },
     "6UeL2/": {
-        "defaultMessage": "GSC-Skripting wird in jedem Spiel unterstützt, für das wir Clients haben. {br} Auch wenn die Steam-Version es nicht tat."
+        "defaultMessage": "GSC-Skripting wird in jedem Spiel unterstützt, für das wir Clients haben. {br} Auch wenn die Steam-Version es nicht tut."
     },
     "6iQXUX": {
         "defaultMessage": "Dedizierte Server"
@@ -36,10 +36,10 @@
         "defaultMessage": "Verbesserte clients"
     },
     "77mpfV": {
-        "defaultMessage": "Spiele es, wie du willst."
+        "defaultMessage": "Spiele, wie du es willst."
     },
     "7MDoOM": {
-        "defaultMessage": "Sicherheitslücken, die wir in den Basegames selbst(!) gefunden haben, wurden gepatcht."
+        "defaultMessage": "Sicherheitslücken, die wir selbst(!) in den Spielen gefunden haben, wurden gepatcht."
     },
     "9RDE2w": {
         "defaultMessage": "Diese Seite bearbeiten"
@@ -54,7 +54,7 @@
         "defaultMessage": "Egal welchen Spielstil, Modus oder Clan du liebst - es gibt wahrscheinlich einen Server dafür!"
     },
     "IDX/v+": {
-        "defaultMessage": "Schließe dich {playerCount}-Spielern auf {serverCount}-Servern {popupIcon} an und spiele die Spiele, die du kennst und liebst, jetzt!"
+        "defaultMessage": "Schließe dich {playerCount} Spielern auf {serverCount} Servern {popupIcon}, die die Spiele, wie du sie kennst und liebst, jetzt gleich an!"
     },
     "LwtywQ": {
         "defaultMessage": "Wir haben den Spielen mehrere zusätzliche Waffen und Karten hinzugefügt."
@@ -69,7 +69,7 @@
         "defaultMessage": "letzte 48 Stunden"
     },
     "QOxktD": {
-        "defaultMessage": "Diener"
+        "defaultMessage": "Server"
     },
     "U86B6w": {
         "defaultMessage": "Statistiken"
@@ -105,7 +105,7 @@
         "defaultMessage": "Dokumentation"
     },
     "kBDgI4": {
-        "defaultMessage": "Die Spiele, die du kennst und liebst, neu definiert.{br}Mit mehr Inhalten, Korrekturen und Verbesserungen."
+        "defaultMessage": "Die Spiele, die du kennst und liebst, neu definiert.{br}Mit mehr Inhalten, Fixes und Verbesserungen."
     },
     "lyMBin": {
         "defaultMessage": "Zusätzliche Inhalte."
@@ -117,7 +117,7 @@
         "defaultMessage": "Letzte Woche"
     },
     "rWe5nM": {
-        "defaultMessage": "Erfahren, wie du deinen eigenen Server hostest"
+        "defaultMessage": "Erfahre wie du deinen eigenen Server hostest"
     },
     "uDrH0Q": {
         "defaultMessage": "Die verwendeten Marken sind Eigentum ihrer jeweiligen Inhaber."
@@ -129,7 +129,7 @@
         "defaultMessage": "Und vieles, vieles mehr..."
     },
     "/6/sPX": {
-        "defaultMessage": "Doku"
+        "defaultMessage": "Dokumentation"
     },
     "1iEPTM": {
         "defaultMessage": "Allgemein"
@@ -150,7 +150,7 @@
         "defaultMessage": "Forum"
     },
     "984c5R": {
-        "defaultMessage": "Spender-Programm"
+        "defaultMessage": "Donator-Programm"
     },
     "9ySmaS": {
         "defaultMessage": "Plutonium IW5 Client"
@@ -162,13 +162,13 @@
         "defaultMessage": "Server"
     },
     "G9paIn": {
-        "defaultMessage": "MW3-Client-Support"
+        "defaultMessage": "MW3 Client-Support"
     },
     "HqRNN8": {
-        "defaultMessage": "Unterstützen"
+        "defaultMessage": "Support"
     },
     "JX0502": {
-        "defaultMessage": "Kunde"
+        "defaultMessage": "Client"
     },
     "LMrYR6": {
         "defaultMessage": "Serverschlüssel"
@@ -186,10 +186,10 @@
         "defaultMessage": "GSC-Modding"
     },
     "UPIP2S": {
-        "defaultMessage": "Plutonium-Launcher-Unterstützung"
+        "defaultMessage": "Plutonium-Launcher-Support"
     },
     "ZXp0z1": {
-        "defaultMessage": "Funktionen"
+        "defaultMessage": "Features"
     },
     "bwW4UI": {
         "defaultMessage": "Modding"
@@ -207,7 +207,7 @@
         "defaultMessage": "Spieler online"
     },
     "jtsrnp": {
-        "defaultMessage": "WaW-Client-Support"
+        "defaultMessage": "WaW Client-Support"
     },
     "kd/dH5": {
         "defaultMessage": "Plutonium T6 Client"
@@ -219,7 +219,7 @@
         "defaultMessage": "Schließen"
     },
     "vTasx9": {
-        "defaultMessage": "BO2 Kundenbetreuung"
+        "defaultMessage": "BO2 Client-Support"
     },
     "wUaVhC": {
         "defaultMessage": "Top-Forum-Kategorien"
@@ -228,34 +228,34 @@
         "defaultMessage": "WaW Mods"
     },
     "20Sj6n": {
-        "defaultMessage": "Ziel-Down-Sight-Empfindlichkeit"
+        "defaultMessage": "Zielvorrichtung-Mausempfindlichkeit"
     },
     "J5Q1SJ": {
-        "defaultMessage": "Zwietracht reiche Präsenz"
+        "defaultMessage": "Discord Aktivitätsstatus"
     },
     "QlWCgp": {
-        "defaultMessage": "Benutzerdefinierter Kartentext"
+        "defaultMessage": "Benutzerdefinierter Titel-Text"
     },
     "WpO2ZA": {
-        "defaultMessage": "Theater/Demo-System"
+        "defaultMessage": "Kino/Demo-System"
     },
     "aAKhqY": {
-        "defaultMessage": "Zuordnungsrotation für ZM-Server"
+        "defaultMessage": "Map-rotations für ZM Server"
     },
     "dAzgDD": {
-        "defaultMessage": "Aim-Assistent"
+        "defaultMessage": "Aim-Assist"
     },
     "jVND4I": {
         "defaultMessage": "Mod-Download"
     },
     "jW1VqX": {
-        "defaultMessage": "Foren-Avatare als In-Game-Icon"
+        "defaultMessage": "Forum-Avatare als In-Game-Icon"
     },
     "qRrHmM": {
         "defaultMessage": "Höhere FPS als Steam"
     },
     "ufm/ag": {
-        "defaultMessage": "Unverschlossen"
+        "defaultMessage": "Entsperrt"
     },
     "v5sW67": {
         "defaultMessage": "Alle DLCs freigeschaltet"
@@ -264,7 +264,7 @@
         "defaultMessage": "UPNP für benutzerdefinierte Spiele"
     },
     "zPLbMW": {
-        "defaultMessage": "Ultra Wide Monitor-Unterstützung"
+        "defaultMessage": "Ultra-Wide-Monitor Unterstützung"
     },
     "3SVI5p": {
         "defaultMessage": "Warnung"
@@ -282,10 +282,10 @@
         "defaultMessage": "Auf dieser Seite"
     },
     "j/e2NU": {
-        "defaultMessage": "unverschlossen"
+        "defaultMessage": "entsperrt"
     },
     "l1XTI5": {
-        "defaultMessage": "Folgen Sie uns"
+        "defaultMessage": "Folge uns"
     },
     "/ikNh6": {
         "defaultMessage": "{dvar} dvar"
