@@ -90,8 +90,7 @@ R sollte nun auf +usereload statt +reload umgetauscht werden. Stelle sicher, das
 
 ## Tauschen der Trigger/Bumper
 
-You can switch the triggers and bumpers around by [opening the console](/docs/opening-console) and pasting this in:
-Du kannst die Trigger / Bumper wechseln, indem du die [Konsole öffnest](/docs/opening-console) und folgendes einfügst:
+Du kannst die Trigger / Bumper tauschen, indem du die [Konsole öffnest](/docs/opening-console) und folgendes einfügst:
 
 ```cs
 bind BUTTON_LSHLDR "+speed_throw"; bind BUTTON_RSHLDR "+attack"; bind BUTTON_LTRIG "+smoke"; bind BUTTON_RTRIG "+frag"
